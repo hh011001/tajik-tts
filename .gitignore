@@ -1,0 +1,51 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# PyTorch, TensorFlow, or other ML weights
+*.ckpt
+*.h5
+*.pt
+*.pth
+*.tflite
+*.pb
+
+# Logs and debug
+*.log
+*.out
+*.err
+
+# IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data
+data/
+*.wav
+*.mp3
+*.zip
+
+# Models
+models/
+checkpoints/
